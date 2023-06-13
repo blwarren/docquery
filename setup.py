@@ -28,7 +28,7 @@ extras_require = {
         "build",
         "flake8",
         "flake8-isort",
-        "isort==5.10.1",
+        "isort==5.12.0",
         "pre-commit",
         "pytest",
         "twine",
