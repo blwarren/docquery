@@ -35,7 +35,7 @@ extras_require = {
     ],
     "donut": [
         "sentencepiece",
-        "protobuf<=3.20.1",
+        "protobuf<=4.24.1",
     ],
     "web": [
         "selenium",
